@@ -12,3 +12,8 @@ C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Ejercicio2\o
 C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Ejercicio2\obj\Debug\net8.0\Ejercicio2.pdb
 C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Ejercicio2\obj\Debug\net8.0\Ejercicio2.genruntimeconfig.cache
 C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Ejercicio2\obj\Debug\net8.0\ref\Ejercicio2.dll
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Ejercicio2\obj\Debug\net8.0\Ejercicio2.sourcelink.json
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Ejercicio2\bin\Debug\net8.0\Piezas.dll
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Ejercicio2\bin\Debug\net8.0\Piezas.pdb
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Ejercicio2\obj\Debug\net8.0\Ejercicio2.csproj.AssemblyReference.cache
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Ejercicio2\obj\Debug\net8.0\Ejercicio2.csproj.Up2Date
