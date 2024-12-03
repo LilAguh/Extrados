@@ -1,0 +1,15 @@
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Using,Dispose,BDyDAOS\bin\Debug\net8.0\Using,Dispose,BDyDAOS.exe
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Using,Dispose,BDyDAOS\bin\Debug\net8.0\Using,Dispose,BDyDAOS.deps.json
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Using,Dispose,BDyDAOS\bin\Debug\net8.0\Using,Dispose,BDyDAOS.runtimeconfig.json
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Using,Dispose,BDyDAOS\bin\Debug\net8.0\Using,Dispose,BDyDAOS.dll
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Using,Dispose,BDyDAOS\bin\Debug\net8.0\Using,Dispose,BDyDAOS.pdb
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Using,Dispose,BDyDAOS\obj\Debug\net8.0\Using,Dispose,BDyDAOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Using,Dispose,BDyDAOS\obj\Debug\net8.0\Using,Dispose,BDyDAOS.AssemblyInfoInputs.cache
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Using,Dispose,BDyDAOS\obj\Debug\net8.0\Using,Dispose,BDyDAOS.AssemblyInfo.cs
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Using,Dispose,BDyDAOS\obj\Debug\net8.0\Using,Dispose,BDyDAOS.csproj.CoreCompileInputs.cache
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Using,Dispose,BDyDAOS\obj\Debug\net8.0\Using,Dispose,BDyDAOS.sourcelink.json
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Using,Dispose,BDyDAOS\obj\Debug\net8.0\Using,Dispose,BDyDAOS.dll
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Using,Dispose,BDyDAOS\obj\Debug\net8.0\refint\Using,Dispose,BDyDAOS.dll
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Using,Dispose,BDyDAOS\obj\Debug\net8.0\Using,Dispose,BDyDAOS.pdb
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Using,Dispose,BDyDAOS\obj\Debug\net8.0\Using,Dispose,BDyDAOS.genruntimeconfig.cache
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Using,Dispose,BDyDAOS\obj\Debug\net8.0\ref\Using,Dispose,BDyDAOS.dll
