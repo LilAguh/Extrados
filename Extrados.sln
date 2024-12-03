@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Piezas", "Piezas\Piezas.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Using,Dispose,BDyDAOS", "Using,Dispose,BDyDAOS\Using,Dispose,BDyDAOS.csproj", "{B6B2303D-A8D6-4EFA-8E0A-33DE64D6E2B0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio3", "Ejercicio3\Ejercicio3.csproj", "{1B4C2B4E-F338-4E79-82EA-0C7C83B893AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{B6B2303D-A8D6-4EFA-8E0A-33DE64D6E2B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6B2303D-A8D6-4EFA-8E0A-33DE64D6E2B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6B2303D-A8D6-4EFA-8E0A-33DE64D6E2B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B4C2B4E-F338-4E79-82EA-0C7C83B893AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B4C2B4E-F338-4E79-82EA-0C7C83B893AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B4C2B4E-F338-4E79-82EA-0C7C83B893AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B4C2B4E-F338-4E79-82EA-0C7C83B893AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
