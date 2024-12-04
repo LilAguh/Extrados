@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Using,Dispose,BDyDAOS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9503d45ab0fba39ddd143f27da537a8caf6bf2c6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33fc18e6423037914488df8c143f4851d69511d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Using,Dispose,BDyDAOS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Using,Dispose,BDyDAOS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

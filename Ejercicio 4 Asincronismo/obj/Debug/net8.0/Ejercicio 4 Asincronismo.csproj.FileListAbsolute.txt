@@ -1,0 +1,15 @@
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Ejercicio 4 Asincronismo\bin\Debug\net8.0\Ejercicio 4 Asincronismo.exe
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Ejercicio 4 Asincronismo\bin\Debug\net8.0\Ejercicio 4 Asincronismo.deps.json
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Ejercicio 4 Asincronismo\bin\Debug\net8.0\Ejercicio 4 Asincronismo.runtimeconfig.json
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Ejercicio 4 Asincronismo\bin\Debug\net8.0\Ejercicio 4 Asincronismo.dll
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Ejercicio 4 Asincronismo\bin\Debug\net8.0\Ejercicio 4 Asincronismo.pdb
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Ejercicio 4 Asincronismo\obj\Debug\net8.0\Ejercicio 4 Asincronismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Ejercicio 4 Asincronismo\obj\Debug\net8.0\Ejercicio 4 Asincronismo.AssemblyInfoInputs.cache
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Ejercicio 4 Asincronismo\obj\Debug\net8.0\Ejercicio 4 Asincronismo.AssemblyInfo.cs
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Ejercicio 4 Asincronismo\obj\Debug\net8.0\Ejercicio 4 Asincronismo.csproj.CoreCompileInputs.cache
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Ejercicio 4 Asincronismo\obj\Debug\net8.0\Ejercicio 4 Asincronismo.sourcelink.json
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Ejercicio 4 Asincronismo\obj\Debug\net8.0\Ejercicio 4 Asincronismo.dll
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Ejercicio 4 Asincronismo\obj\Debug\net8.0\refint\Ejercicio 4 Asincronismo.dll
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Ejercicio 4 Asincronismo\obj\Debug\net8.0\Ejercicio 4 Asincronismo.pdb
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Ejercicio 4 Asincronismo\obj\Debug\net8.0\Ejercicio 4 Asincronismo.genruntimeconfig.cache
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Ejercicio 4 Asincronismo\obj\Debug\net8.0\ref\Ejercicio 4 Asincronismo.dll

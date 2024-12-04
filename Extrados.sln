@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Using,Dispose,BDyDAOS", "Us
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio3", "Ejercicio3\Ejercicio3.csproj", "{1B4C2B4E-F338-4E79-82EA-0C7C83B893AD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio 4 Asincronismo", "Ejercicio 4 Asincronismo\Ejercicio 4 Asincronismo.csproj", "{1A9EECBE-206C-4A8F-B35A-B783BB759F39}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{1B4C2B4E-F338-4E79-82EA-0C7C83B893AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B4C2B4E-F338-4E79-82EA-0C7C83B893AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B4C2B4E-F338-4E79-82EA-0C7C83B893AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A9EECBE-206C-4A8F-B35A-B783BB759F39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A9EECBE-206C-4A8F-B35A-B783BB759F39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A9EECBE-206C-4A8F-B35A-B783BB759F39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A9EECBE-206C-4A8F-B35A-B783BB759F39}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
