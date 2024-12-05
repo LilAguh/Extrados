@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio3", "Ejercicio3\Ej
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio 4 Asincronismo", "Ejercicio 4 Asincronismo\Ejercicio 4 Asincronismo.csproj", "{1A9EECBE-206C-4A8F-B35A-B783BB759F39}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excepciones,GuardasYSingleton", "Excepciones,GuardasYSingleton\Excepciones,GuardasYSingleton.csproj", "{5DD82795-0D25-469B-9915-DB7B79A8300E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{1A9EECBE-206C-4A8F-B35A-B783BB759F39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A9EECBE-206C-4A8F-B35A-B783BB759F39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A9EECBE-206C-4A8F-B35A-B783BB759F39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DD82795-0D25-469B-9915-DB7B79A8300E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DD82795-0D25-469B-9915-DB7B79A8300E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DD82795-0D25-469B-9915-DB7B79A8300E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DD82795-0D25-469B-9915-DB7B79A8300E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
