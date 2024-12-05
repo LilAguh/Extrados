@@ -1,0 +1,15 @@
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Excepciones,GuardasYSingleton\obj\Debug\net8.0\Excepciones,GuardasYSingleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Excepciones,GuardasYSingleton\obj\Debug\net8.0\Excepciones,GuardasYSingleton.AssemblyInfoInputs.cache
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Excepciones,GuardasYSingleton\obj\Debug\net8.0\Excepciones,GuardasYSingleton.AssemblyInfo.cs
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Excepciones,GuardasYSingleton\obj\Debug\net8.0\Excepciones,GuardasYSingleton.csproj.CoreCompileInputs.cache
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Excepciones,GuardasYSingleton\obj\Debug\net8.0\Excepciones,GuardasYSingleton.sourcelink.json
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Excepciones,GuardasYSingleton\bin\Debug\net8.0\Excepciones,GuardasYSingleton.exe
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Excepciones,GuardasYSingleton\bin\Debug\net8.0\Excepciones,GuardasYSingleton.deps.json
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Excepciones,GuardasYSingleton\bin\Debug\net8.0\Excepciones,GuardasYSingleton.runtimeconfig.json
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Excepciones,GuardasYSingleton\bin\Debug\net8.0\Excepciones,GuardasYSingleton.dll
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Excepciones,GuardasYSingleton\bin\Debug\net8.0\Excepciones,GuardasYSingleton.pdb
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Excepciones,GuardasYSingleton\obj\Debug\net8.0\Excepciones,GuardasYSingleton.dll
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Excepciones,GuardasYSingleton\obj\Debug\net8.0\refint\Excepciones,GuardasYSingleton.dll
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Excepciones,GuardasYSingleton\obj\Debug\net8.0\Excepciones,GuardasYSingleton.pdb
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Excepciones,GuardasYSingleton\obj\Debug\net8.0\Excepciones,GuardasYSingleton.genruntimeconfig.cache
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Excepciones,GuardasYSingleton\obj\Debug\net8.0\ref\Excepciones,GuardasYSingleton.dll
