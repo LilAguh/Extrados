@@ -72,4 +72,28 @@ void VenderAlcoholGuarda(int edad, bool veda)
     Console.WriteLine("Se le puede vender alcohol.");
 }
 
-VenderAlcoholGuarda(21, true);
+//VenderAlcoholGuarda(21, true);
+
+
+//Animal ani1 = new Animal(5);
+//Animal ani2 = new Animal(6);
+//Animal ani3 = new Animal(8);
+//Animal dato = 4;
+
+//Console.WriteLine(ani1.cantidadPatas);
+//Console.WriteLine(ani2.cantidadPatas);
+//Console.WriteLine(ani3.cantidadPatas);
+//Console.WriteLine(Animal.dato);
+
+
+// Un objeto singleton es un objeto del que solo puede existir una instancia
+// Como vemos al ejecutar la instancia es creada una sola vez
+// Se puede modificar pero no instanciar mas de una, salvo que sea asincrono y rompa la instancia
+var asd1 = Animal.instance;
+asd1.cantidadPatas = 1;
+var asd2 = Animal.instance;
+asd1.cantidadPatas = 2;
+var asd3 = Animal.instance;
+asd1.cantidadPatas = 3;
+
+Console.WriteLine(asd1.cantidadPatas);

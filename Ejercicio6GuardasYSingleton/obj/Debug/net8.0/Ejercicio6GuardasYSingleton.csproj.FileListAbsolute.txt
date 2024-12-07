@@ -1,0 +1,15 @@
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Ejercicio6GuardasYSingleton\bin\Debug\net8.0\Ejercicio6GuardasYSingleton.exe
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Ejercicio6GuardasYSingleton\bin\Debug\net8.0\Ejercicio6GuardasYSingleton.deps.json
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Ejercicio6GuardasYSingleton\bin\Debug\net8.0\Ejercicio6GuardasYSingleton.runtimeconfig.json
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Ejercicio6GuardasYSingleton\bin\Debug\net8.0\Ejercicio6GuardasYSingleton.dll
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Ejercicio6GuardasYSingleton\bin\Debug\net8.0\Ejercicio6GuardasYSingleton.pdb
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Ejercicio6GuardasYSingleton\obj\Debug\net8.0\Ejercicio6GuardasYSingleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Ejercicio6GuardasYSingleton\obj\Debug\net8.0\Ejercicio6GuardasYSingleton.AssemblyInfoInputs.cache
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Ejercicio6GuardasYSingleton\obj\Debug\net8.0\Ejercicio6GuardasYSingleton.AssemblyInfo.cs
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Ejercicio6GuardasYSingleton\obj\Debug\net8.0\Ejercicio6GuardasYSingleton.csproj.CoreCompileInputs.cache
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Ejercicio6GuardasYSingleton\obj\Debug\net8.0\Ejercicio6GuardasYSingleton.sourcelink.json
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Ejercicio6GuardasYSingleton\obj\Debug\net8.0\Ejercicio6GuardasYSingleton.dll
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Ejercicio6GuardasYSingleton\obj\Debug\net8.0\refint\Ejercicio6GuardasYSingleton.dll
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Ejercicio6GuardasYSingleton\obj\Debug\net8.0\Ejercicio6GuardasYSingleton.pdb
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Ejercicio6GuardasYSingleton\obj\Debug\net8.0\Ejercicio6GuardasYSingleton.genruntimeconfig.cache
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Ejercicio6GuardasYSingleton\obj\Debug\net8.0\ref\Ejercicio6GuardasYSingleton.dll

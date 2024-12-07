@@ -18,14 +18,14 @@ DAOUsuarios bd = new DAOUsuarios();
 //}
 
 //Crea un nuevo usuario
-//var crearUsuario = bd.CrearUsuario("Juan", 33);
-//Console.WriteLine($"ID: {crearUsuario.ID}, Nombre: {crearUsuario.Nombre}, Edad: {crearUsuario.Edad}");
+var crearUsuario = bd.CrearUsuario("Luca", 19);
+Console.WriteLine($"ID: {crearUsuario.ID}, Nombre: {crearUsuario.Nombre}, Edad: {crearUsuario.Edad}");
 
 //Actualiza un usuario
 //var actualizarUsuario = bd.ActualizarUsuario(26,"Adrian");
 //Console.WriteLine($"ID: {actualizarUsuario.ID}, Nombre: {actualizarUsuario.Nombre}, Edad: {actualizarUsuario.Edad}");
 
 //Elimina logicamente el usuario del sistema
-var eliminarUsuario = bd.DesactivarUsuario(22);
-if (eliminarUsuario)
-    Console.WriteLine("El usuario fue eliminado");
+//var eliminarUsuario = bd.DesactivarUsuario(22);
+//if (eliminarUsuario)
+//    Console.WriteLine("El usuario fue eliminado");
