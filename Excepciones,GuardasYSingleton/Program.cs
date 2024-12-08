@@ -92,8 +92,12 @@ void VenderAlcoholGuarda(int edad, bool veda)
 var asd1 = Animal.instance;
 asd1.cantidadPatas = 1;
 var asd2 = Animal.instance;
-asd1.cantidadPatas = 2;
+asd2.cantidadPatas = 2;
 var asd3 = Animal.instance;
-asd1.cantidadPatas = 3;
+asd3.cantidadPatas = 3;
 
 Console.WriteLine(asd1.cantidadPatas);
+
+// Ejecuto asd1 y como cantidad de patas hipoteticamente me deberia devolver 1
+// Pero al no poder instanciar mas de una vez van cambiando los valores secuencialmente
+// Es decir, en este caso no se crean 3 animales, solo le cambiamos el valor al unico creado
