@@ -24,20 +24,6 @@ using Ejercicio6GuardasYSingleton;
 using Ejercicio6GuardasYSingleton.bdconnection.DAOs;
 using Ejercicio6GuardasYSingleton.bdconnection.Entidades;
 
-//DAOUsuarios bd = new DAOUsuarios();
-//List<Usuarios> usuarios = bd.ObtenerTodosLosUsuarios();
-//foreach (var usuario in usuarios)
-//{
-//Console.WriteLine($"ID: {usuario.ID}, Nombre: {usuario.Nombre}, Edad: {usuario.Edad}");
-//}
-
-//DAOProductos datosProdctos = new DAOProductos();
-//List<Productos> productos = datosProdctos.ObtenerTodosLosProductos();
-//foreach (var producto in productos)
-//{
-//    Console.WriteLine($"ID: {producto.ID}, Producto: {producto.Producto}, Precio: {producto.Precio}, Stock: {producto.Stock}");
-//}
-
 class Program
 {
     static void Main(string[] args)
