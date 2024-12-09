@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Ejercicio6GuardasYSingleton.bdconnection.Entidades
 {
-    internal class Usuarios
+    public class Usuarios
     {
+        public int ID { get; set; }
+        public string Nombre { get; set; }
+        public int Edad { get; set; }
+        public int Activo { get; set; }
     }
 }
