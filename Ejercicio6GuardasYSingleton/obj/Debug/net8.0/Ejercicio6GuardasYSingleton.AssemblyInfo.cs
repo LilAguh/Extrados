@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ejercicio6GuardasYSingleton")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ece116fc185de388d979a53c182ba266890c7fdb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5fdf653883ab03b6b74ab85b898d33f72c00e39")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ejercicio6GuardasYSingleton")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ejercicio6GuardasYSingleton")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,3 +13,9 @@ C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Ejercicio6Gu
 C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Ejercicio6GuardasYSingleton\obj\Debug\net8.0\Ejercicio6GuardasYSingleton.pdb
 C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Ejercicio6GuardasYSingleton\obj\Debug\net8.0\Ejercicio6GuardasYSingleton.genruntimeconfig.cache
 C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Ejercicio6GuardasYSingleton\obj\Debug\net8.0\ref\Ejercicio6GuardasYSingleton.dll
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Ejercicio6GuardasYSingleton\bin\Debug\net8.0\Dapper.dll
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Ejercicio6GuardasYSingleton\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Ejercicio6GuardasYSingleton\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Ejercicio6GuardasYSingleton\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Ejercicio6GuardasYSingleton\obj\Debug\net8.0\Ejercicio6GuardasYSingleton.csproj.AssemblyReference.cache
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\Extrados\Ejercicio6GuardasYSingleton\obj\Debug\net8.0\Ejercici.CA11FEE5.Up2Date
